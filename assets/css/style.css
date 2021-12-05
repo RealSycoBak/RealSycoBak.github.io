@@ -35,9 +35,9 @@ body {
     width: 12px;
   }
 
-  *::-webkit-scrollbar-track {
-    /* background: transparent; */
-  }
+  /**::-webkit-scrollbar-track {
+     background: transparent;
+  } */
 
   *::-webkit-scrollbar-thumb {
     background-color: #006eff;
